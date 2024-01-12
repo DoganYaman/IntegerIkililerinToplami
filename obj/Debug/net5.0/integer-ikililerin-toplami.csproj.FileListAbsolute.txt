@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\bin\Debug\net5.0\integer-ikililerin-toplami.exe
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\bin\Debug\net5.0\integer-ikililerin-toplami.deps.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\bin\Debug\net5.0\integer-ikililerin-toplami.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\bin\Debug\net5.0\integer-ikililerin-toplami.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\bin\Debug\net5.0\integer-ikililerin-toplami.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\bin\Debug\net5.0\integer-ikililerin-toplami.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\integer-ikililerin-toplami.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\integer-ikililerin-toplami.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\integer-ikililerin-toplami.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\integer-ikililerin-toplami.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\integer-ikililerin-toplami.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\refint\integer-ikililerin-toplami.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\integer-ikililerin-toplami.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\integer-ikililerin-toplami.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\integer-ikililerin-toplami\obj\Debug\net5.0\ref\integer-ikililerin-toplami.dll
